@@ -1,0 +1,10 @@
+E:\Projects\TaskGitHub\Jalousie\Jalousie\Jalousie\bin\Debug\Jalousie.exe.config
+E:\Projects\TaskGitHub\Jalousie\Jalousie\Jalousie\bin\Debug\Jalousie.exe
+E:\Projects\TaskGitHub\Jalousie\Jalousie\Jalousie\bin\Debug\Jalousie.pdb
+E:\Projects\TaskGitHub\Jalousie\Jalousie\Jalousie\obj\Debug\Jalousie.csprojAssemblyReference.cache
+E:\Projects\TaskGitHub\Jalousie\Jalousie\Jalousie\obj\Debug\Jalousie.Form1.resources
+E:\Projects\TaskGitHub\Jalousie\Jalousie\Jalousie\obj\Debug\Jalousie.Properties.Resources.resources
+E:\Projects\TaskGitHub\Jalousie\Jalousie\Jalousie\obj\Debug\Jalousie.csproj.GenerateResource.cache
+E:\Projects\TaskGitHub\Jalousie\Jalousie\Jalousie\obj\Debug\Jalousie.csproj.CoreCompileInputs.cache
+E:\Projects\TaskGitHub\Jalousie\Jalousie\Jalousie\obj\Debug\Jalousie.exe
+E:\Projects\TaskGitHub\Jalousie\Jalousie\Jalousie\obj\Debug\Jalousie.pdb
